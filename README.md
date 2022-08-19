@@ -67,7 +67,7 @@ of a country):
 
 ## Release notes
 
-### 1.0.2 - 19-AUG-22
+### 13.0.5 - 19-AUG-22
 
 - [NEW] Added Wales (gb-wls, wls, wales)
 - [FIX] Flag for GB/UK was mapped wrongly.
