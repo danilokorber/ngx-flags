@@ -70,4 +70,8 @@ of a country):
 ### 13.0.5 - 19-AUG-22
 
 - [NEW] Added Wales (gb-wls, wls, wales)
-- [FIX] Flag for GB/UK was mapped wrongly.
+- [FIX #2] Flag for GB/UK was mapped wrongly.
+
+### 13.0.6 - 19-AUG-22
+
+- [FIX] Fixed bug that prevented the flag to be shown under certain circumstances.

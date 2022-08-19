@@ -4,7 +4,7 @@ import * as database from './ngx-flags.database';
 @Component({
   selector: 'flag',
   template: `<div
-    *ngIf="this.countryCode"
+    *ngIf="this.country"
     [style]="this.style"
     [ngClass]="['ngx-flag', this.class]"
   ></div>`,
