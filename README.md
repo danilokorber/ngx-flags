@@ -64,3 +64,10 @@ of a country):
 | size      | `'xxs'`, `'xs'`, `'s'`, `'m'`, `'l'`, `'xl'`, `'xxl'`, <number> | `48`     | sets the flag width        |
 | format    | `'none'`, `'round'`, `'square'`                                 | `'none'` | sets the flag format       |
 | class     | <string>                                                        |          | apply custom class to flag |
+
+## Release notes
+
+### 1.0.2 - 19-AUG-22
+
+- [NEW] Added Wales (gb-wls, wls, wales)
+- [FIX] Flag for GB/UK was mapped wrongly.
